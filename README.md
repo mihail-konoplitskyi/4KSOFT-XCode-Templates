@@ -37,3 +37,7 @@ XCode templates that will save time for iOS/MacOS developers.
 - Remove module reference from a project (remove reference, not a directory)
 
   ![Remove reference](https://github.com/mihail-konoplitskyi/4KSOFT-XCode-Templates/blob/main/images/remove_reference.png)
+
+## Future plans
+
+All iOS/MacOS developes are spending tons of time doing absolutely identical work. This repository was created to solve this problem. In a close future I will create most recent templates for developers needs. 

@@ -37,6 +37,15 @@ XCode templates that will save time for iOS/MacOS developers.
 - Remove module reference from a project (remove reference, not a directory)
 
   ![Remove reference](https://github.com/mihail-konoplitskyi/4KSOFT-XCode-Templates/blob/main/images/remove_reference.png)
+  
+## Screenshots
+
+#### Empty View Controller
+  ![Empty View Controller Screenshot](https://github.com/mihail-konoplitskyi/4KSOFT-XCode-Templates/blob/main/images/EmptyViewControllerScreenshot.png)
+
+#### Custom TableViewCell
+  ![Custom Table View Cell](https://github.com/mihail-konoplitskyi/4KSOFT-XCode-Templates/blob/main/images/CustomTableViewCellScreenshot.png)
+
 
 ## Future plans
 

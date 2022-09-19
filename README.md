@@ -1,6 +1,7 @@
 # XCode Templates by 4K-SOFT
 
-[![Platforms](https://img.shields.io/badge/Platforms-macOS_iOS-green?style=flat-square)](https://img.shields.io/badge/Platforms-macOS_iOS_tvOSgreen?style=flat-square)
+[![Swift](https://img.shields.io/badge/Swift-5.3_5.4_5.5_5.6-orange?style=flat-square)](https://img.shields.io/badge/Swift-5.3_5.4_5.5_5.6-Orange?style=flat-square)
+[![Platforms](https://img.shields.io/badge/Platforms-macOS_iOS-yellowgreen?style=flat-square)](https://img.shields.io/badge/Platforms-macOS_iOS_tvOS-Green?style=flat-square)
 
 XCode templates that will save time for iOS/MacOS developers.
 

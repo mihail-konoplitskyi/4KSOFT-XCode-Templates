@@ -9,7 +9,7 @@
 
 XCode Templates was created to save time for iOS/MacOS developers that are usually spending time copy-pasting same code from another projects just to create new screen with simple UI elements. With XCode Templates this process can be significantly automated. 
 
-In every template I'm using only programmatical UIView, no xib/storyboard. 
+In every template I'm using only programmatical view, no xib/storyboard. 
 
 Feel free to leave your [wishes](https://github.com/mihail-konoplitskyi/4KSOFT-XCode-Templates/issues/new) and [comments](https://github.com/mihail-konoplitskyi/4KSOFT-XCode-Templates/issues/new).
 

@@ -2,6 +2,10 @@
 
 [![Swift](https://img.shields.io/badge/Swift-5.3_5.4_5.5_5.6-orange?style=flat-square)](https://img.shields.io/badge/Swift-5.3_5.4_5.5_5.6-Orange?style=flat-square)
 [![Platforms](https://img.shields.io/badge/Platforms-macOS_iOS-yellowgreen?style=flat-square)](https://img.shields.io/badge/Platforms-macOS_iOS_tvOS-Green?style=flat-square)
+[![Platforms](https://img.shields.io/badge/license-MIT-blue)](https://img.shields.io/badge/license-MIT-blue)
+
+
+
 
 XCode Templates was created to save time for iOS/MacOS developers that are usually spending time copy-pasting same code from another projects just to create new screen with simple UI elements. With XCode Templates this process can be significantly automated. 
 

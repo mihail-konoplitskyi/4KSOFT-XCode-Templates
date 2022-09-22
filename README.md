@@ -64,7 +64,7 @@ Feel free to leave your [wishes](https://github.com/mihail-konoplitskyi/4KSOFT-X
 #### Custom CollectionViewCell
   ![Custom Table View Cell](https://github.com/mihail-konoplitskyi/4KSOFT-XCode-Templates/blob/master/images/CustomCollectionViewCellScreenshot.png)
 
-##Projects that were built with XCode Templates:
+## Projects that were built with XCode Templates:
 
   - [Hide Expert VPN](https://apps.apple.com/gb/app/hide-expert-vpn/id1616168170?platform=iphone)
   - [Sona](https://apps.apple.com/gb/app/sona-healthy-sleep/id1617545266)

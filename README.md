@@ -12,6 +12,7 @@ Feel free to leave your [wishes](https://github.com/mihail-konoplitskyi/4KSOFT-X
 
 - [How to start using](#how-to-start-using)
 - [Screenshots](#screenshots)
+- [Projects](#projects-that-were-built-with-xcode-templates)
 - [Future plans](#future-plans)
 
 ## How to start using

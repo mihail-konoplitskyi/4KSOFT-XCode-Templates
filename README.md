@@ -66,8 +66,8 @@ Feel free to leave your [wishes](https://github.com/mihail-konoplitskyi/4KSOFT-X
 
 ##Projects that were built with XCode Templates:
 
-####[Hide Expert VPN](https://apps.apple.com/gb/app/hide-expert-vpn/id1616168170?platform=iphone)
-####[Sona](https://apps.apple.com/gb/app/sona-healthy-sleep/id1617545266)
+  - [Hide Expert VPN](https://apps.apple.com/gb/app/hide-expert-vpn/id1616168170?platform=iphone)
+  - [Sona](https://apps.apple.com/gb/app/sona-healthy-sleep/id1617545266)
 
 ## Future plans
 

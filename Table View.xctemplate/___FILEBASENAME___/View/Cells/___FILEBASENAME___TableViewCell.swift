@@ -1,8 +1,5 @@
 //
-//  TableViewCell.swift
-//  XCodeTemplates
-//
-//  Created by Mihail Konoplitskyi on 18.09.2022.
+//  ___FILEHEADER___
 //
 
 import Foundation

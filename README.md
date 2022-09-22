@@ -59,10 +59,10 @@ Feel free to leave your [wishes](https://github.com/mihail-konoplitskyi/4KSOFT-X
 #### Empty View Controller
   ![Empty View Controller Screenshot](https://github.com/mihail-konoplitskyi/4KSOFT-XCode-Templates/blob/master/images/EmptyViewControllerScreenshot.png)
 
-#### Custom TableViewCell
+#### Table View
   ![Custom Table View Cell](https://github.com/mihail-konoplitskyi/4KSOFT-XCode-Templates/blob/master/images/CustomTableViewCellScreenshot.png)
 
-#### Custom CollectionViewCell
+#### Collection View
   ![Custom Table View Cell](https://github.com/mihail-konoplitskyi/4KSOFT-XCode-Templates/blob/master/images/CustomCollectionViewCellScreenshot.png)
 
 ## Projects built with XCode Templates

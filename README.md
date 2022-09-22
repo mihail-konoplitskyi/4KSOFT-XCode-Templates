@@ -57,6 +57,8 @@ Feel free to leave your [wishes](https://github.com/mihail-konoplitskyi/4KSOFT-X
 #### Custom TableViewCell
   ![Custom Table View Cell](https://github.com/mihail-konoplitskyi/4KSOFT-XCode-Templates/blob/main/images/CustomTableViewCellScreenshot.png)
 
+#### Custom CollectionViewCell
+  ![Custom Table View Cell](https://github.com/mihail-konoplitskyi/4KSOFT-XCode-Templates/blob/main/images/CustomCollectionViewCellScreenshot.png)
 
 ## Future plans
 

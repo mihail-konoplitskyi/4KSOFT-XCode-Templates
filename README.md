@@ -49,6 +49,9 @@ Feel free to leave your [wishes](https://github.com/mihail-konoplitskyi/4KSOFT-X
 - Remove module reference from a project (remove reference, not a directory)
 
   ![Remove reference](https://github.com/mihail-konoplitskyi/4KSOFT-XCode-Templates/blob/master/images/remove_reference.png)
+
+- Templates are using different third-party frameworks. You can find installation guide below: 
+  - [SnapKit](https://github.com/SnapKit/SnapKit#installation) 
   
 ## Screenshots
 

@@ -67,6 +67,9 @@ Feel free to leave your [wishes](https://github.com/mihail-konoplitskyi/4KSOFT-X
 
 #### Carousel Collection View
   ![Carousel Collection View](https://github.com/mihail-konoplitskyi/4KSOFT-XCode-Templates/blob/master/images/CarouselCollectionView.gif)
+  
+#### Paging Scroll View
+  ![Paging Scroll View](https://github.com/mihail-konoplitskyi/4KSOFT-XCode-Templates/blob/master/images/PagingScrollView.gif)
 
 ## Projects built with XCode Templates
 

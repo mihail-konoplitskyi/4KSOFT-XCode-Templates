@@ -11,7 +11,7 @@ In every template I'm using only programmatical view, no xib/storyboard.
 Feel free to leave your [wishes](https://github.com/mihail-konoplitskyi/4KSOFT-XCode-Templates/issues/new) and [comments](https://github.com/mihail-konoplitskyi/4KSOFT-XCode-Templates/issues/new).
 
 - [How to start using](#how-to-start-using)
-- [Screenshots](#screenshots)
+- [Examples](#examples)
 - [Projects](#projects-built-with-xcode-templates)
 - [Future plans](#future-plans)
 
@@ -54,7 +54,7 @@ Feel free to leave your [wishes](https://github.com/mihail-konoplitskyi/4KSOFT-X
 - Templates are using different third-party frameworks. You can find installation guide below: 
   - [SnapKit](https://github.com/SnapKit/SnapKit#installation) (DSL to make Auto Layout easy on both iOS and OS X)
   
-## Screenshots
+## Examples
 
 #### Empty View Controller
   ![Empty View Controller Screenshot](https://github.com/mihail-konoplitskyi/4KSOFT-XCode-Templates/blob/master/images/EmptyViewControllerScreenshot.png)

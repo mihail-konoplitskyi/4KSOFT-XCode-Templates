@@ -5,6 +5,7 @@
 [![Platforms](https://img.shields.io/badge/license-MIT-blue)](https://img.shields.io/badge/license-MIT-blue) [![Join the chat at https://gitter.im/XCode-Templates/XCode_Templates](https://badges.gitter.im/XCode-Templates/XCode_Templates.svg)](https://gitter.im/XCode-Templates/XCode_Templates?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 XCode Templates was created to save time for iOS/MacOS developers that are usually spending time copy-pasting same code from another projects just to create new screen with simple UI elements. With XCode Templates this process can be significantly automated. 
+It automatically creates MVP components for a new screen: programmatical view, view controller, helpers, services, extension, models, etc.
 
 The main idea is to create All-in-One solution where developer will be able to select template, UI framework (UIKit/SwiftUI) and select needed architecture (MVC/MVP/MVVM/VIPER). 
 In every template I'm using only programmatical view, no xib/storyboard. 

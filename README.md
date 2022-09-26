@@ -78,6 +78,8 @@ Feel free to leave your [wishes](https://github.com/mihail-konoplitskyi/4KSOFT-X
 
 ## Future plans
 
-All iOS/MacOS developers are spending tons of time doing absolutely identical work. This repository was created to solve this problem. In a close future I will create most recent templates for developers needs. 
+All iOS/MacOS developers are spending tons of time doing absolutely identical work. This repository was created to solve this problem. In a close future I will create most recent templates for developers needs.
+
+The main idea is to create All-in-One solution where developer will be able to select template, UI framework (UIKit/SwiftUI) and select needed archictecture (MVC/MVP/MVVM/VIPER). 
 
 After most recent templates will be created with UIKit, I'll start preparing AppKit templates for MacOS and SwiftUI templates. 

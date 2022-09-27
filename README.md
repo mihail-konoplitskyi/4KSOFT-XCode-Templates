@@ -56,6 +56,8 @@ Feel free to leave your [wishes](https://github.com/mihail-konoplitskyi/4KSOFT-X
 
   ![Remove reference](https://github.com/mihail-konoplitskyi/4KSOFT-XCode-Templates/blob/master/images/remove_reference.png)
 
+- Highly recommend to use [SwiftLint](https://github.com/realm/SwiftLint#installation) on every your project using [.swiftlint.yml](https://github.com/mihail-konoplitskyi/4KSOFT-XCode-Templates/blob/master/.swiftlint.yml) which was used to create templates
+
 - Templates are using different third-party frameworks. You can find installation guide below: 
   - [SnapKit](https://github.com/SnapKit/SnapKit#installation) (DSL to make Auto Layout easy on both iOS and OS X)
   

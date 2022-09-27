@@ -1,3 +1,5 @@
+disabled_rules:
+  - trailing_whitespace
 analyzer_rules:
   - unused_declaration
   - unused_import
